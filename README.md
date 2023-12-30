@@ -1,4 +1,4 @@
-## An End to End Project
+## An End to End Linear Regression Project
 
 ### Created a environment
 
