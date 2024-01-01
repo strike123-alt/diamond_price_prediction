@@ -1,0 +1,3 @@
+access key: AKIAZV2Y4OHXYYEEXXYH
+Secret access key: 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
+ecr_url: 665369473519.dkr.ecr.ap-south-1.amazonaws.com/diamondpriceprediction
